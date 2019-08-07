@@ -1,2 +1,2 @@
-# longest-common-subsequence
+# Longest Common Subsequence
 Longest Common Subsequence
