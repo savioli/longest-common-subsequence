@@ -1,0 +1,22 @@
+{
+    "name": "savioli/longest-common-subsequence",
+    "version": "1.0",
+    "type": "library",
+    "description": "Longest Common Subsequence",
+    "keywords": [ "algorithm", "dynamic programming", "longest common subsequence", "longest common subsequence problem" ],
+    "homepage": "http://github.com/savioli/longest-common-subsequence",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "André Savioli",
+            "email": "andre_savioli@hotmail.com",
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Savioli\\LongestCommonSubsequence\\": [
+                "LongestCommonSubsequence"
+            ]
+        }
+    }
+}
